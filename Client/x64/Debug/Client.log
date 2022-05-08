@@ -1,0 +1,5 @@
+﻿  TCPclient.cpp
+C:\Users\91960\Desktop\chat_Application\Client\TCPclient.cpp(95,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\91960\Desktop\chat_Application\Client\x64\Debug\Client.exe for writing
